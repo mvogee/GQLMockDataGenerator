@@ -1,0 +1,6 @@
+node_modules/
+generated.ts
+mockData.json
+build/src
+schema.graphql
+.DS_Store
